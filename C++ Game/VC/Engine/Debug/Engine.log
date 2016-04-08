@@ -1,0 +1,58 @@
+﻿Build started 05/04/2016 22:43:20.
+     1>Project "D:\Users\Jordno\Documents\IN2026 Coursework Code\VC\Engine\Engine.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Visual Studio\VC\bin\CL.exe /c /I../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Engine.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\Src\Animation.cpp ..\..\Src\AnimationManager.cpp ..\..\src\GameDisplay.cpp ..\..\src\GameObject.cpp ..\..\Src\GameObjectType.cpp ..\..\src\GameSession.cpp ..\..\src\GameWindow.cpp ..\..\src\GameWorld.cpp ..\..\src\GlutSession.cpp ..\..\src\GlutWindow.cpp ..\..\src\GLVector.cpp ..\..\src\GUIComponent.cpp ..\..\src\GUIContainer.cpp ..\..\src\GUIIcon.cpp ..\..\src\GUILabel.cpp ..\..\src\Image.cpp ..\..\src\ImageManager.cpp ..\..\src\MovementController.cpp ..\..\Src\Shape.cpp ..\..\src\Sprite.cpp ..\..\src\Texture.cpp ..\..\src\TextureManager.cpp
+         TextureManager.cpp
+         Texture.cpp
+         Sprite.cpp
+         Shape.cpp
+         MovementController.cpp
+         ImageManager.cpp
+         Image.cpp
+         GUILabel.cpp
+         GUIIcon.cpp
+         GUIContainer.cpp
+         GUIComponent.cpp
+         GLVector.cpp
+         GlutWindow.cpp
+         GlutSession.cpp
+         GameWorld.cpp
+         GameWindow.cpp
+         GameSession.cpp
+         GameObjectType.cpp
+         GameObject.cpp
+         GameDisplay.cpp
+         Generating Code...
+         Compiling...
+         AnimationManager.cpp
+         Animation.cpp
+         Generating Code...
+       Lib:
+         D:\Visual Studio\VC\bin\Lib.exe /OUT:"D:\Users\Jordno\Documents\IN2026 Coursework Code\VC\Asteroids\Debug\..\..\..\lib\\..\lib\Engine.lib" FreeImage.lib /LIBPATH:../../lib /NOLOGO Debug\Animation.obj
+         Debug\AnimationManager.obj
+         Debug\GameDisplay.obj
+         Debug\GameObject.obj
+         Debug\GameObjectType.obj
+         Debug\GameSession.obj
+         Debug\GameWindow.obj
+         Debug\GameWorld.obj
+         Debug\GlutSession.obj
+         Debug\GlutWindow.obj
+         Debug\GLVector.obj
+         Debug\GUIComponent.obj
+         Debug\GUIContainer.obj
+         Debug\GUIIcon.obj
+         Debug\GUILabel.obj
+         Debug\Image.obj
+         Debug\ImageManager.obj
+         Debug\MovementController.obj
+         Debug\Shape.obj
+         Debug\Sprite.obj
+         Debug\Texture.obj
+         Debug\TextureManager.obj
+         Engine.vcxproj -> D:\Users\Jordno\Documents\IN2026 Coursework Code\VC\Asteroids\Debug\..\..\..\lib\Engine.lib
+     1>Done Building Project "D:\Users\Jordno\Documents\IN2026 Coursework Code\VC\Engine\Engine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.51
